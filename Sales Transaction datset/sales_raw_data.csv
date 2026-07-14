@@ -1,0 +1,8 @@
+Order_ID,Date,Customer_Name,Region,Product,Quantity,Price,Salesperson,Payment_Status
+1001,1/1/2025,Rahul Sharma,North,Laptop,2,55000,Amit,Paid
+1002,2/1/2025,Priya Singh,north,Mobile,3,15000,Raj,paid
+1003,3/1/2025,Arjun Kumar,South,Tablet,,22000,Amit,Pending
+1004,4/1/2025,Neha Verma,East,Laptop,1,55000,,Paid
+1005,5/1/2025,Rahul Sharma,North,Laptop,2,55000,Amit,Paid
+1005,5/1/2025,Rahul Sharma,North,Laptop,2,55000,Amit,Paid
+1006,6/1/2025,Rohan Mehta,WEST,Mobile,1,15000,Raj,PAID
