@@ -60,13 +60,11 @@ Sales-Transaction-Automation/
 ├── automation.py
 ├── raw_data.csv
 ├── cleaned_data.csv
-├── summary_report.xlsx
 ├── region_chart.png
 ├── product_chart.png
 ├── payment_chart.png
 ├── salesperson_chart.png
 ├── dashboard.pbix
-├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
@@ -115,7 +113,6 @@ The script will automatically:
 * Convert data types
 * Calculate total sales
 * Save the cleaned dataset
-* Generate a summary report
 * Create chart images
 
 ---
